@@ -10,10 +10,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import random
 
-
-# In[9]:
-
-
 class usuario:
     
     def __init__(self,tipo,alpha, start_joining):
